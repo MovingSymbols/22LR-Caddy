@@ -2,17 +2,14 @@
 3D printable caddy for managing 22LR cartridges
 
 This model really only works with the cartridges and inserts found in CCI 50-round boxes.  However, it works REAL good with them.
-![22LR Caddy](https://github.com/MovingSymbols/22LR-Caddy/blob/15beeb53accf1a170ddfb0d9dbc02169f9f4c94e/22LR%20Cartridge%20Caddy%20for%20CCI%2050rd.jpg)
+![22LR Caddy](https://github.com/MovingSymbols/22LR-Caddy/blob/2274f9b02d663da1a2aae2f3ee9175ca48a05d36/22LR%20Caddy%20Animation%20Optimized.gif)
 
 The idea is that one slides the 22LR rounds out of the box (they are in a perforated carrier) then lower the cartridges point-down into the caddy.
-The carrier plate will snap into the top of the caddy, and each 10 round row of cartridges will be raised up to a different level, making it super-duper easy and convenient to pull cartridges out, even while wearing tac gloves or something.
+The carrier plate will snap into the top of the caddy, and each 10 round row of cartridges will be raised up to a different level, making it super-duper easy and convenient and sexy and fun to pull cartridges out, even while wearing dorky tac gloves or something.
 
 Especially convenient for competition shooting, and reloading magazines.
 
 Didn't use all fifty rounds?  Just lift it up and out from the retainer clips on the sides, and slide the carrier (still containing the unused rounds) back into the box.
-
-## Show Me, I'm a Visual Learner
-![22LR Caddy Animation](https://github.com/MovingSymbols/22LR-Caddy/blob/15beeb53accf1a170ddfb0d9dbc02169f9f4c94e/22LR%20Caddy%20Animation.gif)
 
 ## Printing
 Print one each of the body, and the retainer. Print the parts in the orientation shown **Very important!**
@@ -28,5 +25,5 @@ It probably won't work, and by probably I mean definitely
 ## Then can yo-
 Nope
 
-## I want to talk business/design/etc
-Fire me an email, it's in my bio
+## Actually I want to talk business/design/etc
+It just so happens do this kind of thing as a job. Fire me an email, it's in my bio
