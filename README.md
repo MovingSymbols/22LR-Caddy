@@ -2,6 +2,7 @@
 3D printable caddy for managing 22LR cartridges
 
 This model really only works with the cartridges and inserts found in CCI 50-round boxes.  However, it works REAL good with them!
+I use CCI SV (standard velocity) for target shooting and buy them by the case, so if you do as well then you might be interested in this.
 
 ![22LR Caddy](https://github.com/MovingSymbols/22LR-Caddy/blob/2274f9b02d663da1a2aae2f3ee9175ca48a05d36/22LR%20Caddy%20Animation%20Optimized.gif)
 
