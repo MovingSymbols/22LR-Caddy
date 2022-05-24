@@ -15,10 +15,9 @@ Didn't use all fifty rounds?  Just lift it up and out from the retainer clips on
 ![22LR Caddy Animation](https://github.com/MovingSymbols/22LR-Caddy/blob/15beeb53accf1a170ddfb0d9dbc02169f9f4c94e/22LR%20Caddy%20Animation.gif)
 
 ## Printing
-Print one each of the body, and the retainer. Print the box in the orientation shown (i.e. print the body with the bottom flat on the build platform)
-BUT
-**print the retainer on its side!** Very important!
-Both parts will print with no supports needed, as long as your printer isn't complete ass, anyway.
+Print one each of the body, and the retainer. Print the parts in the orientation shown **Very important!**
+![Print directions](https://github.com/MovingSymbols/22LR-Caddy/blob/9670d3e983edbaab7f3df6bf74e97315151d9a97/Print%20like%20this.png)
+Both parts will print with no supports needed (as long as your printer isn't complete ass, anyway) but only when printed in the orientation shown.
 
 ## Assembly
 Just snap the retainer onto body, it should hold itself in place without glue.
