@@ -1,7 +1,7 @@
 # 22LR Printable Caddy (for easier handling and dispending of 22LR)
 3D printable caddy for managing 22LR cartridges
 
-This model really only works with the cartridges and inserts found in CCI 50-round boxes.  However, it works REAL good with them.
+This model really only works with the cartridges and inserts found in CCI 50-round boxes.  However, it works REAL good with them!
 ![22LR Caddy](https://github.com/MovingSymbols/22LR-Caddy/blob/2274f9b02d663da1a2aae2f3ee9175ca48a05d36/22LR%20Caddy%20Animation%20Optimized.gif)
 
 The idea is that one slides the 22LR rounds out of the box (they are in a perforated carrier) then lower the cartridges point-down into the caddy.
