@@ -7,18 +7,19 @@ I use CCI SV (standard velocity) for target shooting and buy them by the case, s
 ![22LR Caddy](https://github.com/MovingSymbols/22LR-Caddy/blob/2274f9b02d663da1a2aae2f3ee9175ca48a05d36/22LR%20Caddy%20Animation%20Optimized.gif)
 
 The idea is that one slides the 22LR rounds out of the box (they are in a perforated carrier) then lower the cartridges point-down into the caddy.
-The carrier plate will snap into the top of the caddy, and each 10 round row of cartridges will be raised up to a different level, making it super-duper easy and convenient and sexy and fun to pull cartridges out, even while wearing dorky tac gloves or something.
+The carrier plate will snap into the top of the caddy, and each 10 round row of cartridges will be raised up to a different level, making it super-duper easy and convenient and sexy and fun to pull cartridges out, even while wearing dorky tac gloves or something.  Take the highest row first, then the next, and so on.
 
 Especially convenient for competition shooting, and reloading magazines.
 
-Didn't use all fifty rounds?  Just lift it up and out from the retainer clips on the sides, and slide the carrier (still containing the unused rounds) back into the box.
+Didn't use all fifty rounds?  Just lift the carrier up and out (unhooking it from the retainer clips on the sides) and slide the carrier -- which still contains the unused rounds -- back into the box.
 
 ## Printing
-Print one each of the body, and the retainer. Print the parts in the orientation shown **Very important!**
+Print one each of the body, and the retainer. Print the parts in the orientation shown. **This is very important.**  
+Both parts include roughly 45 degree overhangs, but a printer should be able to handle that fine without needing supports (as long as your printer isn't complete ass, anyway.)
 
 ![Print directions](https://github.com/MovingSymbols/22LR-Caddy/blob/9670d3e983edbaab7f3df6bf74e97315151d9a97/Print%20like%20this.png)
 
-Both parts will print with no supports needed (as long as your printer isn't complete ass, anyway) but only when printed in the orientation shown.
+The retainer clip will only be strong in the right places if printed in the orientation shown.  (Why? If you print the retainer clip "standing up" instead of laying down, the layer orientations will make the part very weak in the thin areas.)
 
 ## Assembly
 Just snap the retainer onto body, it should hold itself in place without glue.
