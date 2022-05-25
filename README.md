@@ -14,7 +14,7 @@ Especially convenient for competition shooting, and reloading magazines.
 Didn't use all fifty rounds?  Just lift the carrier up and out (unhooking it from the retainer clips on the sides) and slide the carrier -- which still contains the unused rounds -- back into the box.
 
 ## RyanReynoldsButWhy.gif
-The normal way to deal yourself 22LR is to open the box, slide out the carrier to expose 10 (or five) rounds, the tip it over into your hand so the cartridges fall out.  So what advantages does using a caddy bring?
+The normal way to deal yourself 22LR is to open the box, slide out the carrier to expose 10 (or five) rounds, then tip it over into your hand so the cartridges fall out.  So what advantages does using a caddy bring?
 
 - It makes reloading magazines faster and easier, because one isn't going back-and-forth tipping rounds out of a box (which is a two-handed process, doesn't keep the rounds pointed the same way, and is awkward at best if wearing gloves.)  One simply plucks a round at a time, loading mags until done.
 - When shooting at events, time and concentration are factors. It is slow and distracting to fiddle with dumping rounds into your palm (which, again, is a two handed process.) It's better to just one-handedly pick & reload from a ready-to-go caddy that is easy to move, carry, and charge.
@@ -28,7 +28,7 @@ Both parts include roughly 45 degree overhangs, but a printer should be able to 
 The retainer clip will only be strong in the right places if printed in the orientation shown.  (Why? If you print the retainer clip "standing up" instead of laying down, the layer orientations will make the part very weak in the thin areas.)
 
 ## Assembly
-Just snap the retainer onto body, it should hold itself in place without glue.
+Just snap the retainer onto the body, it should hold itself in place without glue.
 
 ## What About Other Brands (not CCI, etc)?
 It probably won't work, and by probably I mean definitely
